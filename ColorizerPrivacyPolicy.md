@@ -1,0 +1,1 @@
+This app uses Google's AdMob to serve ads. AdMob uses the device's advertising ID to serve personalized ads based on the user's interests which includes collecting and analyzing user data. You can use [this link](https://adssettings.google.com/u/0/authenticated) to opt out of Google's personalized advertising.
